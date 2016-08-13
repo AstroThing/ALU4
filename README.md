@@ -3,7 +3,7 @@ ALU implementation using a FPGA and an Arduino Due.
 
 #Description
 * 5 operators
-* 4 bit words
+* 4 bit operands
 
 The operators are:
 * ADD

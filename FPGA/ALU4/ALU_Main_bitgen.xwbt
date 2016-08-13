@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\nimer\Documents\ALU4\FPGA\ALU4\ALU_Main.ncd
+OUTFILE=C:\Users\nimer\Documents\ALU4\FPGA\ALU4\ALU_Main.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5ft256
+WORKINGDIR=C:\Users\nimer\Documents\ALU4\FPGA\ALU4
+LICENSE=WebPack
+USER_INFO=__0_0_0
